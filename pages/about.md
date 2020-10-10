@@ -9,7 +9,8 @@ permalink: /about/
 ---
 
 ## 关于
-![LOGO](https://cdn.jsdelivr.net/gh/qinghongjiao/cdn/qinghongjiao/1.jpg  width="50%" height="50%" "头像")
+![LOGO](https://cdn.jsdelivr.net/gh/qinghongjiao/cdn/qinghongjiao/1.jpg  width="50%" height="50%" "头像")  
+
 *斜体文本*
 _斜体文本_
 **粗体文本**
