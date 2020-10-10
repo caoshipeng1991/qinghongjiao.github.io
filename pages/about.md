@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 青红椒
+keywords: 青红椒, QingHongJiao
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
 ## 关于
-![logo](https://cdn.jsdelivr.net/gh/qinghongjiao/cdn/qinghongjiao/1.jpg){:height="50%" width="50%"}  
+![logo](https://cdn.jsdelivr.net/gh/qinghongjiao/cdn/qinghongjiao/1.jpg){:height="30%" width="30%"}  
 
 > **粗体文本**
 
