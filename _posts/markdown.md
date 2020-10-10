@@ -29,10 +29,10 @@ keywords: 关键字
 
 ### 代码块
 
-    ```
+```html
 https://qinghongjiao.com/
 
-    ```
+```
 
 ### 水平分割线
 
