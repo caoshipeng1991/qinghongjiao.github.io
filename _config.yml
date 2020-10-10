@@ -76,9 +76,9 @@ navs:
   -
     href: /about/
     label: 关于
-  -
-    href: /domains/
-    label: 域名
+#  -
+#    href: /domains/
+#    label: 域名
 
 # ---------------- #
 #       RSS        #
