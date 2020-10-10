@@ -61,13 +61,13 @@ navs:
     href: /categories/
     label: 分类
 
-  -
-    href: /open-source/
-    label: 开源
+#   -
+#     href: /open-source/
+#     label: 开源
 
-  -
-    href: /wiki/
-    label: 维基
+#   -
+#     href: /wiki/
+#     label: 维基
 
   -
     href: /links/
@@ -119,15 +119,15 @@ comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
-disqus:
-    username: 
+# disqus:
+#     username: 
 # https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: mzlogin
-    repo: blog-comments
-    oauth:
-        client_id: d2e1cbbd2989
-        client_secret: b42a41
+# gitment:
+#     owner: mzlogin
+#     repo: blog-comments
+#     oauth:
+#        client_id: d2e1cbbd2989
+#         client_secret: b42a41
 # https://github.com/gitalk/gitalk#install
 gitalk:
     gitalk:
