@@ -25,12 +25,13 @@ keywords: 关键字
 > [博客](https://qinghongjiao.com/ "我的个人博客")  
 
 ### 图片
-> ![Alt text](https://mazhuang.org/favicon.ico "favicon")
+> ![Alt text](https://qinghongjiao.com/favicon.ico "favicon")
 
 ### 代码块
 
-    ```java
+    ```
 https://qinghongjiao.com/
+
     ```
 
 ### 水平分割线
