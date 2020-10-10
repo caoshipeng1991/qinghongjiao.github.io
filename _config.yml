@@ -54,12 +54,12 @@ navs:
     label: 首页
 
   -
-    href: /categories/
-    label: 分类
-
-  -
     href: /archives/
     label: 归档
+
+  -
+    href: /categories/
+    label: 分类
 
   -
     href: /open-source/
@@ -76,6 +76,9 @@ navs:
   -
     href: /about/
     label: 关于
+  -
+    href: /domains/
+    label: 域名
 
 # ---------------- #
 #       RSS        #
