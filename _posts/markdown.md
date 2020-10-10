@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 一份简明的 Markdown 笔记与教程
-categories:  类别，种类
+categories: Blog
 description: 类型
 keywords: 关键字
 ---
