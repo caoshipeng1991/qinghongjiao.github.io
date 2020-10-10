@@ -8,8 +8,9 @@ menu: 关于
 permalink: /about/
 ---
 
-## 关于
 ![logo](https://cdn.jsdelivr.net/gh/qinghongjiao/cdn/qinghongjiao/1.jpg){:height="30%" width="30%"}  
+
+## 关于
 
 > **粗体文本**
 
