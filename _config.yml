@@ -2,16 +2,16 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://qinghongjiao.com
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: 靑紅椒
+subtitle: "青红椒，QingHongJiao"
+description: "青红椒的博客，微信号：改ID中"
+keywords: 青红椒, qinghongjiao，紫白菜, 米农，
+timezone: Asia/YangLing
 encoding: "utf-8"
-side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+side_bar_repo_limit: 8
+repository: qinghongjiao/qinghongjiao.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -41,9 +41,9 @@ highlight_theme: github
 author: Zhuang Ma
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: QingHongJiao
+location: YangLing, China
+email: mail@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -57,13 +57,13 @@ navs:
     href: /categories/
     label: 分类
 
-#   -
-#     href: /archives/
-#     label: 归档
+  -
+    href: /archives/
+    label: 归档
 
-#   -
-#     href: /open-source/
-#     label: 开源
+  -
+    href: /open-source/
+    label: 开源
 
   -
     href: /wiki/
@@ -93,7 +93,7 @@ paginate: 10
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
-permalink: /:year/:month/:day/:title/
+permalink: /:title.html
 plugins:
     - jekyll-github-metadata
     - rouge
@@ -123,14 +123,15 @@ gitment:
     owner: mzlogin
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: d2e1cbbd2989
+        client_secret: b42a41
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    gitalk:
+    owner: qinghongjiao
+    repo: gitalk
+    clientID: 7d4444b91100f1f08ca2
+    clientSecret: 25069b7f66d24c87615bff006848ee1b7345b50a
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -147,7 +148,7 @@ simple_jekyll_search:
 #      Google      #
 # ---------------- #
 google:
-    analytics_id: UA-80669434-1
+    analytics_id: UA-80669
     adsense:
         footer: true
         sidebar: true 
