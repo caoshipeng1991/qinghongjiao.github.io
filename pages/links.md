@@ -10,7 +10,6 @@ permalink: /links/
 
 > ## Links
 
-<ul>
  
 > 1. 米表
 
@@ -22,7 +21,6 @@ permalink: /links/
 ***
 > ## 友情链接
 
-<ul>
 
 > 1. 米表
 
