@@ -8,22 +8,26 @@ menu: 链接
 permalink: /links/
 ---
 
-> God made relatives. Thank God we can choose our friends.
+> ## Links
 
 <ul>
-{% for link in site.data.links %}
-  {% if link.src == 'life' %}
-  <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
-  {% endif %}
-{% endfor %}
+ 
+> 1. 米表
+
+> 2. 米表
+
+> 3. 米表
+
 </ul>
 
-> 友情链接
+> ## 友情链接
 
 <ul>
-{% for link in site.data.links %}
-  {% if link.src == 'www' %}
-  <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
-  {% endif %}
-{% endfor %}
+
+> 1. 米表
+
+> 2. 米表
+
+> 3. 米表
+
 </ul>
