@@ -12,7 +12,7 @@ permalink: /about/
 
 ## 关于
 
-> **粗体文本**
+> **女学习记录站点**
 
 > __粗体文本__
 
@@ -20,4 +20,4 @@ permalink: /about/
 
 > Email:稍等片刻
 
-> WeCha:微信号修改中
+> WeCha:QingHongJiao
